@@ -1,0 +1,32 @@
+{
+  "name": "binaire-freznelai-assessment",
+  "version": "1.0.0",
+  "description": "Use this template for making the assessment for Freznel AI.",
+  "main": "src/index.jsx",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akm0786/Binaire-FreznelAI-Assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akm0786/Binaire-FreznelAI-Assessment/issues"
+  },
+  "homepage": "https://github.com/akm0786/Binaire-FreznelAI-Assessment#readme",
+  "dependencies": {
+    "firebase": "^13.0.0",
+    "ink": "^8.0.0",
+    "ink-text-input": "^6.0.0",
+    "react": "^19.3.1",
+    "systeminformation": "^5.33.15"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
+}
